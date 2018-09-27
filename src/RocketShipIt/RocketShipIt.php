@@ -7,6 +7,8 @@
 
 // Documentation: https://docs.rocketship.it/2-0/
 
+namespace RocketShipIt\RocketShipIt;
+
 class RocketShipIt
 {
     public $response = array();
