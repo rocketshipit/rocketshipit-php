@@ -19,5 +19,6 @@
         "psr-0": {
             "RocketShipIt": "src"
         }
-    }
+    },
+    "version": "1.0.0"    
 }
